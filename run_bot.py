@@ -1,3 +1,14 @@
+#! /usr/bin/env python3
+
+# Author        :    InferiorAK
+# Github        :    github.com/InferiorAK
+# facebook      :    fb.com/InferiorAK
+# Youtbe	:    youtube.com/@InferiorAk
+# twitter	:    twitter.com/@InferiorAk
+## 1st Release: 16th May 2023
+
+# -------- Copyright (C) 2023 InferiorAK ------
+
 from telegram.ext import (
 	Updater,
 	CommandHandler,
